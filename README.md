@@ -1,2 +1,2 @@
-my tf2 config
-please read comments in the config file
+my tf2 config <br>
+please read the comments in the config file
